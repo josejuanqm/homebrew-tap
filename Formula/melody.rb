@@ -1,10 +1,10 @@
 class Melody < Formula
   desc "Declarative mobile app framework"
   homepage "https://github.com/josejuanqm/melody"
-  url "https://github.com/josejuanqm/melody/releases/download/0.1.0/melody-macos-universal.tar.gz"
-  sha256 "c0ef1a8892e52d9b058334e2898d934e4b48eb7b2afcc548db9575c08afb2032"
+  url "https://github.com/josejuanqm/melody/releases/download/0.2.0/melody-macos-universal.tar.gz"
+  sha256 "61b55ad0fce7d519b763c38b99a4d45ba51afe100e08cdd3b9458ba2c37fb192"
   license "MIT"
-  version "0.1.0"
+  version "0.2.0"
 
   def install
     bin.install "melody"
