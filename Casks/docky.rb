@@ -1,6 +1,6 @@
 cask "docky" do
-  version "0.8.0,202607011115"
-  sha256 "bd75638003ec505f7ab3b3436ab534088653c0514f376e8b8b393d814d6d5816"
+  version "0.9.1,202607100103"
+  sha256 "27e0800465ae959d1ca1cbe5d019764c25a766bcfe09bd8cf67ef829bf3669e5"
 
   url "https://github.com/josejuanqm/docky/releases/download/v#{version.csv.first}/Docky-#{version.csv.first}.dmg",
       verified: "github.com/josejuanqm/docky/"
